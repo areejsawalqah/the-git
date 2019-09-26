@@ -38,4 +38,6 @@ mice, disk drives, or monitors.
 
 The control unit sends them. Likewise, when the time is right, the control unit sends these items from memory to the arithmetic/logic unit, where an arithmetic operation or logical operation is performed. After being processed, the information is sent to memory, where it is hold until it is ready to he released to an output unit.
 
-The chief characteristic of memory is that it allows very fast access to instructions and data, no matter where the items are within it. We will discuss the physical components of memory-memory chips-late
+The chief characteristic of memory is that it allows very fast access to instructions and data, no matter where the items are within it. We will discuss the physical components of memory-memory chips-later 
+
+The process of making the salad is then: bring the veggies from the fridge to the counter top; place some veggies on the chopping board according to the recipe; chop the veggies, possibly storing some partially chopped veggies temporarily on the corners of the cutting board; place all the veggies in the bowl to either put back in the fridge or put directly on the dinner table.
