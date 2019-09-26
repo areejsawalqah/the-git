@@ -1,14 +1,35 @@
-# the-git
-# what is git ?
-the major differnerce between git and other VSC ..of git doesnot think or store it is data this way ..
-is aform of version control in which the compelet code base and you can aslo down load git by visit thhis link < link :https://git.com >
+# what is the computer?
 
-# the command line :
+Computers are the most complex machines that have ever been created. Very few people
+really know how they work. This book will tell you how they work and no technical
+knowledge is required. It explains the operation of a simple, but fully functional,
+computer in complete detail. The simple computer described consists mainly of a
+processor and main memory. Relays, which are explained, are used in the circuitry
+instead of transistors for simplicity. This book does not cover peripherals like modems,
+mice, disk drives, or monitors. 
+ 
+# KEY CONCEPTS 
 
-1.cloning
+1- BIOS (basic input/output system) 
 
-2.switching the targeet 
+2- boot or boot-up 
 
-3.check file status
+3- circuit board 
 
-4.pushing change
+4- clock
+
+5- CMOS 
+
+6- operating system
+
+7- ROM and RAM 
+
+8- CPU 
+
+9- expansion slot 
+
+10- system files 
+
+11- motherboard 
+
+12- write and read 
